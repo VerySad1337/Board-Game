@@ -1,6 +1,5 @@
 # Board-Game
- Board-Game
 
 2D Board Game.
 
-Built for fun.
+Build during poly days for Problem Solving and Programming.
